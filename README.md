@@ -9,3 +9,7 @@ conda activate postgis
 ipython kernel install --user --name=postgis
 jupyter notebook
 ```
+
+# Documentation
+
+Pairs with https://docs.google.com/document/d/1GdXevJEUGWzBWlM70hPh65M7YfBJgHJhP8wLfxOIqog/edit?usp=sharing
