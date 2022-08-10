@@ -5,6 +5,7 @@
 - yaml env included for postgis environment which works on all notebooks.
 
 ```
+conda env create -f environment_droplet.yml
 conda activate postgis
 ipython kernel install --user --name=postgis
 jupyter notebook
